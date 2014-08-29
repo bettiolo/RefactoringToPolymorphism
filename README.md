@@ -3,7 +3,7 @@ RefactoringToPolymorphism
 
 Your task is to:
 
-  1. Add code to ```lib/bottles.rb``` to make the _all_ of the tests pass.  Use
+  1. Add  to make the _all_ of the tests pass. Some of the tests are ignored Use
 whatever strategy you like; you'll be done when no tests are 'skipped' and all
 tests pass.
   1. Once the tests pass, change the code you've written to be open/closed to
